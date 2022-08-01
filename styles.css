@@ -1,0 +1,50 @@
+/* intro to CSS styles on my recipe page */
+
+body {
+    background-color: black;
+    
+}
+
+#title{
+    font-size: 34px;
+    color: rgb(200, 225, 100);
+    background-color: #00a2ffc4;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+    
+
+.names{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+}
+li{
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", serif;
+}
+.list{
+    text-align: center;
+    color: white;
+    background-color: aqua;
+}
+.lost{
+    text-align: center;
+    background-color: orange;
+    color: white;
+}
+
+.read{
+    color: white;
+    font-family: "Times New Roman", serif;
+}
